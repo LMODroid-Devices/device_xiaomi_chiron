@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_chiron.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_chiron-user \
-    lmodroid_chiron-userdebug \
-    lmodroid_chiron-eng
